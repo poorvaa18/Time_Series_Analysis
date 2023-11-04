@@ -10,5 +10,9 @@ In this project the code will fetche historical stock price data for Apple Inc. 
 3. A bar plot is included to offer a discrete representation of closing prices.
 4. A candlestick chart with a rangeslider and selector buttons is used, allowing users to interactively explore the data by adjusting the time period displayed and selecting predefined intervals, such as 1 month, 3 months, 6 months, YTD, 1 year, or the entire dataset
 
+- ![Screenshot (59)](https://github.com/poorvaa18/Time_Series_Analysis/assets/77160620/735af014-6ad5-4c70-9fbd-483b73489a5d)
+- ![Screenshot (60)](https://github.com/poorvaa18/Time_Series_Analysis/assets/77160620/7a26bfb0-53bc-4d6f-8ac1-b54a9f64228c)
+
 - Poorva Gupta
+
 email- poorva.gupta29@gmail.com
